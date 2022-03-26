@@ -6,6 +6,7 @@ Juego de **snake**. escrito con TypeScript.
 - HTML
 - TypeScript
 - JavaScript
+- Webpack
 
 
 ## Installation

@@ -11,7 +11,7 @@ export class Game {
 
     private _defaultColor = 'white';
     private _snakeColor = 'green';
-    private _fruitColor = 'blue';
+    private _fruitColor = 'lightgreen';
     private _fruitEmoji = '🍎';
     private _points = 0;
     private _interval: NodeJS.Timeout | undefined;

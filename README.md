@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors
+# SNAKE
 
 Juego de **snake**. escrito con TypeScript.
 

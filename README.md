@@ -26,7 +26,7 @@ npx webpack -w
 
 ## Live Demo
 
-- https://adawolfs.github.io/rock_paper_scissors/
+- https://adawolfs.github.io/snake/
 
 ## Docs
 - https://www.typescriptlang.org/docs/handbook/compiler-options.html
